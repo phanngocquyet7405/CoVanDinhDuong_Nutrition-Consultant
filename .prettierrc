@@ -1,6 +1,11 @@
 {
   "singleQuote": true,
+<<<<<<< HEAD
   "trailingComma": "all",
   "endOfLine": "auto",
   "bracketSpacing": true
 }
+=======
+  "trailingComma": "all"
+}
+>>>>>>> ec694c1 (feat:update modules in backend NT)
